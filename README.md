@@ -1,28 +1,43 @@
-![Cover](assets/background/z.gif)
-# 💫 About Me:
-👾 Welcome to my GitHub!<br>About Me<br>👋 Hi, I’m Johnny Sassiat! I’m a Front-End Developer with a passion for creating interactive interfaces, developing immersive experiences, and working with data and AI.<br>Currently, I’m working on ITV and Coda-Classroom while diving deeper into React and SaaS development.<br><br>💻 Key Skills<br>Languages: HTML | CSS | JavaScript | PHP<br>Frameworks / Libraries: React | Tailwind CSS<br>Tools: GitHub | Visual Studio Code<br>Expertise Areas: Front-End Development, UI/UX, Data Visualization<br>🌍 Connect with Me<br>📧 Email: [johnny.sass2001@gmail.com]<br><br>🎮 Fun Fact<br>"Actually, after giving it some thought... I might be the Dragonborn, but I just don’t know it yet."
+<div style="position: relative; text-align: center; color: white;">
+    <!-- Image d'arrière-plan -->
+    <img src="assets/background/z.gif" alt="Cover Image" style="width: 100%;">
 
+    <!-- Texte superposé -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+        <h1 style="font-size: 3em;">💫 Welcome to my GitHub!</h1>
+        <p style="font-size: 1.5em; margin: 10px 0;">👋 Hi, I’m <b>Johnny Sassiat</b>!</p>
+        <p style="font-size: 1.2em; line-height: 1.5;">
+            I’m a Front-End Developer with a passion for creating interactive interfaces,<br>
+            developing immersive experiences, and working with data and AI.<br>
+            Currently, I’m working on <b>ITV</b> and <b>Coda-Classroom</b>,<br>
+            diving deeper into React and SaaS development.
+        </p>
+    </div>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aaaa) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 
+# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sjossa&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjossa&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Sjossa&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Sjossa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sjossa&icon=5&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Sjossa&icon=5&color=13)](https://visitcount.itsvg.in)
