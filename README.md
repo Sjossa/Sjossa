@@ -1,3 +1,4 @@
+![Cover](assets/background/z.gif)
 # 💫 About Me:
 👾 Welcome to my GitHub!<br>About Me<br>👋 Hi, I’m Johnny Sassiat! I’m a Front-End Developer with a passion for creating interactive interfaces, developing immersive experiences, and working with data and AI.<br>Currently, I’m working on ITV and Coda-Classroom while diving deeper into React and SaaS development.<br><br>💻 Key Skills<br>Languages: HTML | CSS | JavaScript | PHP<br>Frameworks / Libraries: React | Tailwind CSS<br>Tools: GitHub | Visual Studio Code<br>Expertise Areas: Front-End Development, UI/UX, Data Visualization<br>🌍 Connect with Me<br>📧 Email: [johnny.sass2001@gmail.com]<br><br>🎮 Fun Fact<br>"Actually, after giving it some thought... I might be the Dragonborn, but I just don’t know it yet."
 
